@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 9af0ed1e9097a8941b76a50a627bdc5f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - alien_bullet: {fileID: 100000, guid: 2504662a03d316e4b9a03ab05baf053e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
